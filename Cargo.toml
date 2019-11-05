@@ -6,7 +6,7 @@ edition = "2018"
 license = "MIT"
 homepage = "https://omarabid.com"
 documentation = "https://omarabid.com"
-respository = ""
+respository = "https://github.com/omarabid/expr-child.git"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
