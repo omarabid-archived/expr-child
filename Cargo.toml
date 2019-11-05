@@ -1,0 +1,13 @@
+[package]
+name = "child"
+version = "0.1.0"
+authors = ["Abid Omar <contact@omarabid.com>"]
+edition = "2018"
+license = "MIT"
+homepage = "https://omarabid.com"
+documentation = "https://omarabid.com"
+respository = ""
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
